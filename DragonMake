@@ -1,0 +1,19 @@
+---
+name: AirDnD
+icmd: sbreload
+
+all:
+  targetvers: 13.3
+  archs:
+    - arm64
+    - arm64e
+  cflags: -fobjc-arc
+
+AirDnD:
+  type: tweak
+  logos_files:
+    - "*.x"
+
+airdndprefs:
+  dir: airdndprefs
+  type: prefs

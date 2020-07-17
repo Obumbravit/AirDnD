@@ -1,2 +1,8 @@
 # AirDnD
- Airplane Mode in Do Not Disturb.
+
+Airplane Mode in Do Not Disturb.
+Available at [0$ Repo](https://obumbravit.github.io/0SRepo/ "My Repo").
+
+# Building (With DragonBuild)
+
+dragon c b

@@ -1,0 +1,10 @@
+Package: com.obumbravit.airdnd
+Name: AirDnD
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Airplane Mode in Do Not Disturb.
+Maintainer: Obumbravit
+Author: Obumbravit
+Section: Tweaks
+Depiction: https://Obumbravit.github.io/0SRepo/depictions/index.html?p=com.obumbravit.airdnd
